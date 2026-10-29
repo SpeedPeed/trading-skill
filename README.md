@@ -83,3 +83,7 @@ Backtests, erwartungstreue Kalibrierung der Simulation und die Grenzwerte der In
 - Fundamentaldaten (KGV, Umsatz, Margen) liefert das Skript nicht. Claude recherchiert sie per Websuche.
 - Simulationen und Backtests beruhen auf historischen Daten und Modellannahmen. Sie sind **keine Prognose
   und keine Anlageberatung**. Der Skill führt keine Orders aus.
+
+## Lizenz
+
+[MIT](LICENSE)
