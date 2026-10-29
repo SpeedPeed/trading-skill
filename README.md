@@ -25,7 +25,6 @@ alternativ direkt mit `/trading`.
 /plugin marketplace add SpeedPeed/trading-skill
 /plugin install trading@trading-skill
 ```
-(Das Repo ist privat, daher muss Git Zugriff darauf haben, z. B. über `gh auth login` oder SSH.)
 
 **Als persönlicher Skill:**
 ```bash
