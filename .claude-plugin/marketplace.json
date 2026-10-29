@@ -1,0 +1,16 @@
+{
+  "name": "trading-skill",
+  "owner": {
+    "name": "SpeedPeed"
+  },
+  "metadata": {
+    "description": "Trading- und Marktanalyse-Skill für Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "trading",
+      "source": "./",
+      "description": "Kurse, News, Analyse, Monte-Carlo-Simulation, Backtests und Watchlist für Aktien & Co."
+    }
+  ]
+}

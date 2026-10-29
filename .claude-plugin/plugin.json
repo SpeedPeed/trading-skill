@@ -1,0 +1,7 @@
+{
+  "name": "trading",
+  "version": "0.1.0",
+  "description": "Kurse, News, Analyse, Monte-Carlo-Simulation, Backtests und Watchlist für Aktien, ETFs, Indizes, Krypto und Devisen (Yahoo-Finance-Daten).",
+  "author": { "name": "SpeedPeed" },
+  "keywords": ["trading", "stocks", "aktien", "monte-carlo", "backtest", "finance"]
+}
